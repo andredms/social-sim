@@ -21,7 +21,7 @@ Simulate the spread of information in a social network
 - Makefile, used for compiling
 
 ## Test Files
-genfiles.java UnitTestGraph.java UnitTestLinkedList.java UnitTestQueue.java UnitTestHeap.java
+genfiles.java, UnitTestGraph.java, UnitTestLinkedList.java, UnitTestQueue.java, UnitTestHeap.java
 
 ## Functionality
 - Usage information: java SocialSim

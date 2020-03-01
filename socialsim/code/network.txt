@@ -1,0 +1,40 @@
+Nopis Wazsby
+Porry Tenger
+Combo Wazster
+Feck Musty
+Conny Tesical
+Tenny Danbs
+Set Dansley
+Poh Gates
+Hepis Nasley
+Dehn Whimtes
+Cohn Grantz
+Fuiry Weaingo
+Tennis Potiels
+Funrad Moiels
+Gantil Graster
+Beiry Mosley
+Hennor Motes
+Dentil Graowski
+Gaep Waziels
+Connor Joster
+Hepis Nasley:Gantil Graster
+Beiry Mosley:Tenny Danbs
+Hennor Motes:Conny Tesical
+Dentil Graowski:Connor Joster
+Feck Musty:Funrad Moiels
+Poh Gates:Cohn Grantz
+Hepis Nasley:Porry Tenger
+Hepis Nasley:Nopis Wazsby
+Combo Wazster:Hepis Nasley
+Combo Wazster:Fuiry Weaingo
+Hennor Motes:Cohn Grantz
+Dehn Whimtes:Gaep Waziels
+Tenny Danbs:Funrad Moiels
+Set Dansley:Conny Tesical
+Poh Gates:Feck Musty
+Beiry Mosley:Dehn Whimtes
+Set Dansley:Hepis Nasley
+Conny Tesical:Cohn Grantz
+Set Dansley:Porry Tenger
+Fuiry Weaingo:Funrad Moiels

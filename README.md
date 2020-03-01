@@ -4,10 +4,10 @@ A social simulator which shows the propagation of information throughout a netwo
 Date created: 28/10/19
 Date last modified: 28/10/19
 
-#Purpose
+# Purpose
 Simulate the spread of information in a social network
 
-#File Explanations
+# File Explanations
 - DSAGraph.java, implementation of a graph 
 - DSAHeap.java, implementation of a heap
 - DSALinkedList.java, implementation of a linked list 
@@ -20,10 +20,10 @@ Simulate the spread of information in a social network
 - simulation.java, hosts time step and various algorithms to support sorts 
 - Makefile, used for compiling
 
-#Test Files
+# Test Files
 genfiles.java UnitTestGraph.java UnitTestLinkedList.java UnitTestQueue.java UnitTestHeap.java
 
-#Functionality
+# Functionality
 - Usage information: java SocialSim
 - Interactive mode: java SocialSim -i
 - Simulation mode: java SocialSim -s <network.txt> <events.txt> <likeProb> <followProb>
@@ -32,8 +32,8 @@ Generate networks and events through java genfiles <numPeople> <numConnections>
 
 TODO: N/A
 
-#Known bugs:
+# Known bugs:
 N/A
     
-#Additional functionality 
+# Additional functionality 
 - Added smart auto-generating networks/events

@@ -30,8 +30,6 @@ genfiles.java UnitTestGraph.java UnitTestLinkedList.java UnitTestQueue.java Unit
 
 Generate networks and events through java genfiles <numPeople> <numConnections>
 
-TODO: N/A
-
 ## Known bugs:
 N/A
     

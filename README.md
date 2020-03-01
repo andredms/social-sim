@@ -1,5 +1,5 @@
 # Social Simulator
-A simulation which shows the propagation of information throughout a network for 'Data Structures and Algorithms' - achieved 98%.
+A simulation which shows the propagation of information throughout a network for 'Data Structures and Algorithms' - achieved 98%. Investigation included. 
 
 Date created: 28/10/19
 Date last modified: 28/10/19

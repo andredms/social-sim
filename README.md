@@ -3,6 +3,7 @@
 A social simulator which shows the propagation of information throughout a network and utilises a wide range of custom written data structures.
 
 Date created: 28/10/19
+
 Date last modified: 28/10/19
 
 ## Purpose

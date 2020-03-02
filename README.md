@@ -1,4 +1,4 @@
-# Social Simulator
+# Social Sim
 
 Date last modified: 28/10/19
 

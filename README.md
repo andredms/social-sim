@@ -6,8 +6,6 @@ A time-step is essentially a 'step in time’. An event file is first loaded in,
 
 The aspects of the code being investigated are the run-times of the time-step, the patterns revealed by the time-step, the correlation between likes/follows in a network, how differently sized networks scale, the rise and fall of most popular people in networks, and simple time comparisons for different methods in the simulation, such as followSort (similar algorithm to likeSort) and the removal of nodes in the graph. Insertion of people will not be investigated as the times reported were extremely trivial - O(1).
 
-Date created: 28/10/19
-
 Date last modified: 28/10/19
 
 ## Purpose

@@ -25,9 +25,9 @@ The aspects of the code being investigated are the run-times of the time-step, t
 genfiles.java, UnitTestGraph.java, UnitTestLinkedList.java, UnitTestQueue.java, UnitTestHeap.java
 
 ## Functionality
-- Usage information: java SocialSim
-- Interactive mode: java SocialSim -i
-- Simulation mode: java SocialSim -s <network.txt> <events.txt> <likeProb> <followProb>
+- Usage information: ``java SocialSim``
+- Interactive mode: ``java SocialSim -i``
+- Simulation mode: ``java SocialSim -s <network.txt> <events.txt> <likeProb> <followProb>``
 
 Generate networks and events through java genfiles <numPeople> <numConnections>
 

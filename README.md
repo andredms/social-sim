@@ -2,7 +2,7 @@
 
 Date last modified: 28/10/19
 
-##### Custom data structures used to demonstrate knowledge
+##### Note: Custom data structures have been used to demonstrate knowledge and show understanding
 
 Having more followers means having more influence, power and, in most cases, money. Through taking steps in time, one can observe the propagation of fake news, memes and posts within a network and observe how someone can gain popularity and stardom with a bit of luck and the right circumstances. The more followers someone has, the greater the chance of them being followed; however, this isn’t always the case. If someone posts something, and someone with a lot of followers likes it, they have the chance to potentially leapfrog the most popular person in the network. This will be expanded upon in the investigation of the results.
 

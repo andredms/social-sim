@@ -31,6 +31,9 @@ genfiles.java, UnitTestGraph.java, UnitTestLinkedList.java, UnitTestQueue.java, 
 
 Generate networks and events through java genfiles <numPeople> <numConnections>
 
+## TODO:
+- Improve scalability and efficiency of ``simulation.java`` algorithm
+
 ## Known bugs:
 N/A
     
